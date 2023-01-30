@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ga
+Version: 0.0.1
+Summary: Genetic Algorithms
+Home-page: https://github.com/d-niels/ga
+Author: David Nielsen
+Author-email: d.niels1998@gmail.com
+License: MIT
+Keywords: genetic
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
